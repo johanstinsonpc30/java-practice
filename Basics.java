@@ -8,5 +8,6 @@ class Basics
         String str = sc.nextLine();
         System.out.println("U entered :I "+ str);
         System.out.println("I am Learning Git");
+        System.out.println("Student information feature");
     }
 }
