@@ -7,5 +7,6 @@ class Basics
         System.out.println("Enter something: ");
         String str = sc.nextLine();
         System.out.println("U entered :I "+ str);
+        System.out.println("I am Learning Git");
     }
 }
